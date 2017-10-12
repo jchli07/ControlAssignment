@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode title="Hover your mouse here!" url="HTP101.aspx"
+    description="This is the Menu">
+      <siteMapNode title="" url="~/SiteMapPath.aspx"
+      description="TreeView Example" />
+      <siteMapNode title="TreeView" url="~/TreeViewSitemap.aspx"
+      description="TreeView Example" />
+      <siteMapNode title="ClickEvent" url="~/ClickEvent.aspx"
+      description="ClickEvent Example" />
+      <siteMapNode title="Loops" url="~/Loops.aspx"
+      description="Loops Example" />
+    </siteMapNode>
+  </siteMap>
